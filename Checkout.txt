@@ -1,4 +1,6 @@
 Checkout.txt
 WE CANNOT MERGE VIs.
 If you are editing a VI, note that here. (We can merge .txts)
-name -- VI -- checked out dd/mm hh:mm
+name -- VI -- checked out mm/dd hh:mm
+
+Kessler -- Notavi.vi -- 11/21 19:36
